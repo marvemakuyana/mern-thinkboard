@@ -11,6 +11,8 @@
   "type": "module",
   "author": "Marv",
   "dependencies": {
+    "@upstash/ratelimit": "^2.0.5",
+    "@upstash/redis": "^1.34.9",
     "dotenv": "^17.4.2",
     "express": "^4.18.2",
     "mongoose": "^9.9.5"
